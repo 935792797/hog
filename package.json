@@ -1,21 +1,21 @@
 {
   "name": "hog",
   "version": "1.0.0",
-  "description": "",
+  "description": "House of Gord - resolver",
   "main": "captcha.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/935792797/hog.git"
+    "url": "git+https://github.com/935792797/node-hog.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/935792797/hog/issues"
+    "url": "https://github.com/935792797/node-hog/issues"
   },
-  "homepage": "https://github.com/935792797/hog#readme",
+  "homepage": "https://github.com/935792797/node-hog#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3"
   }
