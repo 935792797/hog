@@ -1,0 +1,22 @@
+{
+  "name": "hog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "captcha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/935792797/hog.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/935792797/hog/issues"
+  },
+  "homepage": "https://github.com/935792797/hog#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
